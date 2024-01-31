@@ -1,0 +1,187 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://sites.google.com/view/solodroid-guide-privacy-policy",
+	  "email_feedback_and_report": "yourmail@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "0",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "applovin",
+      "admob_banner_unit_id": "0",
+      "admob_interstitial_unit_id": "0",
+      "admob_native_unit_id": "0",
+      "admob_app_open_unit_id": "0",
+      "ad_manager_banner_unit_id": "0",
+      "ad_manager_interstitial_unit_id": "0",
+      "ad_manager_native_unit_id": "0",
+      "ad_manager_app_open_unit_id": "0",
+      "fan_banner_unit_id": "0",
+      "fan_interstitial_unit_id": "0",
+      "fan_native_unit_id": "0",
+      "startapp_app_id": "0",
+      "unity_game_id": "0",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "0",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 3,
+      "native_ad_index": 1,
+      "native_ad_interval": 8,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": false,
+      "show_banner_ad_post_details": false,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "SlotsMonter",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/777guia6%2Ficon.png?alt=media&token=444bb6a8-7a48-49ba-9328-227e60706030"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "category": "SlotsMonter",
+      "title": "What is 777 Slots Monter",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/777guia6%2Ficon.png?alt=media&token=444bb6a8-7a48-49ba-9328-227e60706030",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/777guia6%2Fwhat%20is%20slots%20777.html?alt=media&token=6a6d1685-2f91-4266-b401-dea1cfbe4ad7",
+      "video": ""
+    },
+	{
+      "id": 2,
+      "category": "SlotsMonter",
+      "title": "How to play 777 Slots Monter",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/777guia6%2Ficon.png?alt=media&token=444bb6a8-7a48-49ba-9328-227e60706030",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/777guia6%2Fhow%20to%20play%20slots.html?alt=media&token=860c13ef-71ed-4fdd-aeac-606fa5ce39e2",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "SlotsMonter",
+      "title": "How to win 777 Slots Monter",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/777guia6%2Ficon.png?alt=media&token=444bb6a8-7a48-49ba-9328-227e60706030",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/777guia6%2Fhow%20to%20win%20slots.html?alt=media&token=4a223157-e501-460d-ac8d-79b4b587605c",
+      "video": ""
+    },
+    {
+      "id": 4,
+      "category": "SlotsMonter",
+      "title": "How to earn money on solitaire",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/777guia6%2Ficon.png?alt=media&token=444bb6a8-7a48-49ba-9328-227e60706030",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/777guia6%2FHow%20to%20earn%20money%20on%20slots.html?alt=media&token=7a930ac9-1c02-42f4-9d57-4f377c3c24ba",
+      "video": ""
+    },
+    {
+      "id": 5,
+      "category": "SlotsMonter",
+      "title": "Strategy on 777 Slots Monter",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/777guia6%2Ficon.png?alt=media&token=444bb6a8-7a48-49ba-9328-227e60706030",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/777guia6%2FStrategy%20on%20slots.html?alt=media&token=d62c02bc-e063-440b-ad5d-fc6751b6b043",
+      "video": ""
+    },
+    {
+      "id": 6,
+      "category": "SlotsMonter",
+      "title": "How to understand playrules 777 Slots Monter",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/777guia6%2Ficon.png?alt=media&token=444bb6a8-7a48-49ba-9328-227e60706030",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/777guia6%2FHow%20to%20understand%20playrules%20on%20slots.html?alt=media&token=7a2371ec-5090-4f18-8dd3-3fd86f5df228",
+      "video": ""
+    },
+	{
+      "id": 7,
+      "category": "SlotsMonter",
+      "title": "Best move to play 777 Slots Monter",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/777guia6%2Ficon.png?alt=media&token=444bb6a8-7a48-49ba-9328-227e60706030",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/777guia6%2FBest%20move%20to%20play%20slots.html?alt=media&token=0bee0319-8ad3-4b48-beab-cb56cd57f5d6",
+      "video": ""
+    },
+    {
+      "id": 8,
+      "category": "SlotsMonter",
+      "title": "How to win 777 Slots Monter easy",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/777guia6%2Ficon.png?alt=media&token=444bb6a8-7a48-49ba-9328-227e60706030",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/777guia6%2FHow%20to%20win%20slots%20easy.html?alt=media&token=5d638271-7f38-4562-87e4-ca08b85e6f97",
+      "video": ""
+    },
+    {
+      "id": 9,
+      "category": "SlotsMonter",
+      "title": "Advice to play 777 Slots Monter",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/777guia6%2Ficon.png?alt=media&token=444bb6a8-7a48-49ba-9328-227e60706030",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/777guia6%2FAdvice%20to%20play%20slots.html?alt=media&token=374428be-7aca-469f-a4af-11a02b66a01e",
+      "video": ""
+    }
+  ],
+  "more_apps": [
+    {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 2,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 3,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 4,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 5,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 6,
+      "title": "",
+      "image": "",
+      "url": ""
+    }
+  ]
+}
